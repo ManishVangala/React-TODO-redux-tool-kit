@@ -1,0 +1,6 @@
+h1{
+    margin-top: 5%;
+    display: grid;
+    place-items: center;
+    color: blue;
+}
